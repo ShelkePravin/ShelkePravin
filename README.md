@@ -22,6 +22,7 @@ A personal portfolio website that showcases my skills, projects, and contact inf
 ✨ Built with modern frontend technologies and designed to reflect my developer identity.
 
 ➡️ Check it out here: `Protfolio` repository
+➡️ Link : https://protfoliopravin.netlify.app/
 
 ---
 
